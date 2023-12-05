@@ -48,7 +48,6 @@ bin/
 ### from lesson QA
 
 .gradle/
-/build/
 /gradle/
 setting.gradle
 gradlew
